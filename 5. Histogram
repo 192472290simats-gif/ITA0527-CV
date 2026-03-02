@@ -22,4 +22,4 @@ def analyze_histogram(image_path):
     plt.show()
 
 
-analyze_histogram(r"C:\Users\bhanu\OneDrive\Documents\image.png")
+analyze_histogram(r"C:\Users\chandu\OneDrive\Documents\image.png")
